@@ -1,4 +1,4 @@
-# Đô thị xanh
+# NỀN TẢNG QUẢN LÝ PHẢN ÁNH HẠ TẦNG ĐÔ THỊ
 Ứng dụng quản lý phản ánh hạ tầng đô thị bằng **React.js + Node.js/Express + Microsoft SQL Server**. Giao diện tiếng Việt, frontend và backend tách thư mục; chức năng được triển khai theo 16 use case trong tài liệu đính kèm.
 
 ## Cấu trúc
@@ -16,9 +16,6 @@ urban-feedback/
 │   ├── public/demo/   # Hình minh họa mẫu, không phải ảnh hiện trường
 │   └── storage/       # Ảnh người dùng được kiểm soát quyền truy cập
 ├── database/          # SQL gốc được giữ nguyên và hướng dẫn SQL Server
-├── docs/              # Hợp đồng API, use case, kiến trúc, kiểm thử
-├── scripts/           # Tạo cấu hình phát triển và tài nguyên minh họa
-├── tests/             # Kiểm thử toàn luồng và giao diện
 └── docker-compose.yml # SQL Server 2022 Developer + volume
 ```
 
