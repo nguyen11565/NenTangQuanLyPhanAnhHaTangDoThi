@@ -144,4 +144,4 @@ Backend phục vụ thư mục `frontend/dist` cùng API trên cổng 4000. Đ�
 - Ảnh JPEG/PNG/WebP được kiểm tra chữ ký tệp, giải mã và mã hóa lại, bỏ EXIF/GPS. Tệp chưa công khai kiểm tra quyền truy cập.
 - Công khai kết quả đã đóng; không trả danh tính người dân, tọa độ chính xác, ảnh sự cố, ghi chú nội bộ. Ảnh kết quả cần được người phụ trách rà soát trước khi nghiệm thu nếu có khuôn mặt/biển số hoặc thông tin cá nhân trong nội dung hình ảnh.
 
-Tài liệu chi tiết: [API](docs/API-CONTRACT.md), [schema và use case](docs/schema-and-usecases.md), [SQL Server](database/README.md).
+
